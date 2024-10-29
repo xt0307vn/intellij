@@ -9,3 +9,9 @@ $$\begin{equation}
     f(x) &= 3x^2 + 2x + 1 + 5x - 2.
 \end{split}
 \end{equation}$$
+
+$$\begin{multline}
+    a + b + c + d + e + f + g + h \\
+    + i + j + k + l + m + n + o + p \\
+    = q.
+\end{multline}$$
