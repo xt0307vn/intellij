@@ -6,6 +6,6 @@ $$ x^2 $$
 
 $$\begin{equation}
 \begin{split}
-    f(x) &= 3x^2 + 2x + 1&\quad + 5x - 2.
+    f(x) &= 3x^2 + 2x + 1 + 5x - 2.
 \end{split}
 \end{equation}$$
